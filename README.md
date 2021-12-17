@@ -2,9 +2,9 @@
 
 Realizadas con:
 
-Guillermo Gómez Trenado--> [@guillermogotre](https://github.com/guillermogotre)
+[@guillermogotre](https://github.com/guillermogotre)
 
-Adrian Peláez Vegas --> [@Adri6](https://github.com/Adri6)
+[@Adri6](https://github.com/Adri6)
 
 # Donaciones
 Recuerda que la publicación de estas prácticas se hace con el fin de compartir las ideas que en mi caso utilizo para resolver dichas prácticas, recalcando que en ningún momento incito a la copia de las mismas. El uso de estas soluciones puede servir como ayuda o apoyo, pero nunca para copiar trabajos, el aprendizaje es lo más importante!

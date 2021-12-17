@@ -1,10 +1,6 @@
 # Prácticas Diseño y Desarrollo de Sistemas de la Información (UGR)
 
-Realizadas con:
-
-[@guillermogotre](https://github.com/guillermogotre)
-
-[@Adri6](https://github.com/Adri6)
+Realizadas con [@guillermogotre](https://github.com/guillermogotre) y [@Adri6](https://github.com/Adri6)
 
 # Donaciones
 Recuerda que la publicación de estas prácticas se hace con el fin de compartir las ideas que en mi caso utilizo para resolver dichas prácticas, recalcando que en ningún momento incito a la copia de las mismas. El uso de estas soluciones puede servir como ayuda o apoyo, pero nunca para copiar trabajos, el aprendizaje es lo más importante!
